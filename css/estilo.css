@@ -656,19 +656,15 @@ hr{
         color: purple;
 
     }
-
+	
     .buscador{
-        position: relative;
-        top: 0px;
-        right: 10px;
-        background: #D9B0F3;
-        width: 55px;
-        height: 55px;
-        line-height: 55px;
-        text-align: center;
-        color: white;
-        border-radius: 50%;
-        font-size: 20px;
-        cursor: pointer;
+        right: 50px;
     }
+  
+     a{
+        position: relative;
+        right: 30px;
+
+    }
+
 }
