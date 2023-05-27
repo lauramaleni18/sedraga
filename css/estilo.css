@@ -647,5 +647,28 @@ hr{
 
 .pp:hover > img , .pp1:hover > img , .pp:2hover > img , .pp:3hover > img , .pp:4hover > img , .pp:5hover > img , .pp6:hover > img , .pp7:hover > img{
     transform: scale(1.2);
+}
 
+@media screen and (max-width: 375px){
+    h3{
+        font-size: 30px;
+        text-align: center;
+        color: purple;
+
+    }
+
+    .buscador{
+        position: relative;
+        top: 0px;
+        right: 10px;
+        background: #D9B0F3;
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        text-align: center;
+        color: white;
+        border-radius: 50%;
+        font-size: 20px;
+        cursor: pointer;
+    }
 }
