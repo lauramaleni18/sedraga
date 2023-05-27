@@ -649,7 +649,7 @@ hr{
     transform: scale(1.2);
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 500px){
     h3{
         font-size: 30px;
         text-align: center;
