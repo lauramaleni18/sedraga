@@ -255,6 +255,14 @@ h3{
 	cursor: pointer;
 
 }
+
+.modelo01{
+    margin: 20px;
+    position: absolute;
+    left: 20px;
+    cursor: pointer;
+}
+
 .buscador{
     position: absolute;
     padding: 5px;
